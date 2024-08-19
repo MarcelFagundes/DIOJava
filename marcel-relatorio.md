@@ -33,9 +33,9 @@ A implementação dessas ferramentas na empresa Abstergo Industries tem como esp
 
 ## Anexos
 
-- [Relatório de uso do AWS Cost Explorer](#https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/)
-- [Documentação do AWS S3 Intelligent-Tiering](#https://aws.amazon.com/pt/s3/storage-classes/intelligent-tiering/)
-- [Exemplos de código e eventos do AWS Lambda](#https://docs.aws.amazon.com/pt_br/lambda/latest/dg/with-ddb-create-package.html) 
+- [Relatório de uso do AWS Cost Explorer](https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/)
+- [Documentação do AWS S3 Intelligent-Tiering](https://aws.amazon.com/pt/s3/storage-classes/intelligent-tiering/)
+- [Exemplos de código e eventos do AWS Lambda](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/with-ddb-create-package.html) 
 
 Assinatura do Responsável pelo Projeto:
 
